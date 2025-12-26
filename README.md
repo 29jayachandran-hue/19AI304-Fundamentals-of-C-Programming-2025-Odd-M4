@@ -41,7 +41,10 @@
 ### Step 14: 
   Stop
 # Program:
+![16](https://github.com/user-attachments/assets/691e1eb9-e19b-459e-891d-533c51e3824f)
+![16 2](https://github.com/user-attachments/assets/6379d8b3-9d92-44b4-b8e0-e47bb4072ef0)
 # Output:
+![16 o 2](https://github.com/user-attachments/assets/ce3c62cc-4623-4c08-aaca-09562d1e1687)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -89,7 +92,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+![17](https://github.com/user-attachments/assets/f7b14ba5-6a93-4a0d-9919-2f9ae865e4c7)
 # Output:
+![17 o](https://github.com/user-attachments/assets/718be64a-a77b-4f30-b4ae-b690dc2f9ca3)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -137,7 +142,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+![18](https://github.com/user-attachments/assets/e75bc5ba-62d2-4aa6-8d8b-3f86408905bc)
 # Output:
+![18 o](https://github.com/user-attachments/assets/79609e77-91e9-41c8-851e-5e49d15dd18e)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -185,7 +192,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+![19](https://github.com/user-attachments/assets/b953fca6-b6e6-44a2-ae56-0797f5336eb5)
+![19 2](https://github.com/user-attachments/assets/8d866c8a-e68d-46a6-ac63-4a8169f1047a)
 # Output:
+![19 o](https://github.com/user-attachments/assets/632cf6ee-2213-4d3c-8eb9-bc5e8ea5bae3)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -220,7 +230,11 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+![20](https://github.com/user-attachments/assets/56c030c7-8b5d-46d3-a309-7212ba472aa0)
+![20 2](https://github.com/user-attachments/assets/4aa019fd-baa1-464c-addb-62bd6bb4f977)
 # Output:
+![20 o](https://github.com/user-attachments/assets/158db171-56c6-4c1a-b5ed-bc579553f872)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
